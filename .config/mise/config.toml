@@ -1,5 +1,11 @@
 [tools]
 "cargo:sheldon" = "latest"
+deno = "latest"
+fzf = "latest"
+gcloud = "latest"
+gh = "latest"
+ghq = "latest"
+jq = "latest"
 neovim = "latest"
 node = "latest"
 "npm:devcontainer" = "latest"

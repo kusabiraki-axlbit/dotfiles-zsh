@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+function gcd() {
+	cd "$(ghq root)/$(ghq list | fzf)"
+}
